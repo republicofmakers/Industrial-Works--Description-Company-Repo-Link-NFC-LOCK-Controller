@@ -3,7 +3,9 @@
 Here is NFC-LOCK-Controller
 
 That can be connected multiple board with RS485 and device address can be setted with slide switches.
+
 1 board control up to 32 lock, device can open locks and check their status, if someone forgets to close.
+
 Device design moduler to easy assembly. And used DWIN LCD for interface and UI Design.
 
 Here is PCB Design:
